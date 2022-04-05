@@ -18,7 +18,7 @@ navbar-links:
   About Me: "aboutme"
   Reviews:
     - Bookwyrm: "https://bookwyrm.social/user/rainer"
-    - Learn markdown: "https://www.goodreads.com/user/show/5353947-rainer"
+    - Goodreads: "https://www.goodreads.com/user/show/5353947-rainer"
   #Author's home: "https://rainer.tech"
 
 # --- Logo --- #
