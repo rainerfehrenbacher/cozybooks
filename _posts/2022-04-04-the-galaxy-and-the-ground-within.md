@@ -2,7 +2,7 @@
 layout: post
 title: The Galaxy and the Ground Within
 subtitle: The fourth and final book in Becky Chambers' Wayfarer series
-thumbnail-img: /assets/img/ggw.png
+thumbnail-img: /assets/img/ggw.jpg
 share-img: /assets/img/path.jpg
 tags: [books, scifi]
 ---

@@ -14,10 +14,11 @@ author: Rainer Fehrenbacher
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Reviews:
+    - Bookwyrm: "https://bookwyrm.social/user/rainer"
+    - Learn markdown: "https://www.goodreads.com/user/show/5353947-rainer"
   #Author's home: "https://rainer.tech"
 
 # --- Logo --- #
