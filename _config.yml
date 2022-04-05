@@ -13,12 +13,12 @@ author: Rainer Fehrenbacher
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
-  #About Me: "aboutme"
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://rainer.tech"
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://rainer.tech"
 
 # --- Logo --- #
 
@@ -43,7 +43,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
-  twitter: rainercodes
+#  twitter: rainercodes
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
