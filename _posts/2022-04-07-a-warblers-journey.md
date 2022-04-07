@@ -2,7 +2,7 @@
 layout: post
 title: A Warbler's Journey
 subtitle: Beautiful, timely, and fun adventure teaches kids about migratory birds
-thumbnail-img: /assets/img/warblers-journey.jpeg
+thumbnail-img: /assets/img/warblers-journey.jpg
 tags: [books, multicultural, childrens, nature]
 ---
 ![A Warbler's Journey cover](/assets/img/warblers-journey.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
