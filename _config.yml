@@ -32,7 +32,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/home-icon.jpg
+title-img: /assets/img/home-icon.png
 
 
 # --- Footer social media links --- #
@@ -104,7 +104,7 @@ post_search: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#80b9b9"
-navbar-text-col: "#d8584e"
+navbar-text-col: "#404040"
 navbar-border-col: "#d8584e"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -112,7 +112,7 @@ link-col: "#80b9b9"
 hover-col: "#0085A1"
 footer-col: "#80b9b9"
 footer-text-col: "#777777"
-footer-link-col: "#80b9b9"
+footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
