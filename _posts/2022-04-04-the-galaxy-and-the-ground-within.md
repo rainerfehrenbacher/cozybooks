@@ -3,7 +3,7 @@ layout: post
 title: The Galaxy and the Ground Within
 subtitle: Mutual Aid in an Emergency
 thumbnail-img: /assets/img/ggw.jpg
-tags: [books, scifi]
+tags: [books, scifi, mutual aid, space opera]
 ---
 ![The Galaxy and the Ground Within cover](/assets/img/ggw.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 <br>

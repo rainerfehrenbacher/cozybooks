@@ -3,11 +3,11 @@ layout: post
 title: A Warbler's Journey
 subtitle: Beautiful, timely, and fun adventure teaches kids about migratory birds
 thumbnail-img: /assets/img/warblers-journey.jpg
-tags: [books, multicultural, childrens, nature]
+tags: [books, multicultural, childrens, nature, migratory birds, wild animals]
 ---
 ![A Warbler's Journey cover](/assets/img/warblers-journey.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 <br>
-:star: :star: :star: :star: :star: 
+# :star: :star: :star: :star: :star: 
 <br>
 In "A Warbler's Journey", Scott Weidensaul and Nancy Lane (illustrations) have collaborated to make a children's book that is an instant classic.
 

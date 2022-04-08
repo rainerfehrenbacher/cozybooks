@@ -3,7 +3,7 @@ layout: post
 title: Light From Uncommon Stars
 subtitle: Great intentions, scattered execution
 thumbnail-img: /assets/img/light.jpeg
-tags: [books, scifi]
+tags: [books, scifi, lgbtq+, classical music, donuts]
 ---
 ![Light From Uncommon Stars cover](/assets/img/light.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 <br>
