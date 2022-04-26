@@ -6,9 +6,7 @@ thumbnail-img: /assets/img/foundryside.jpg
 tags: [fantasy]
 ---
 ![Foundryside book cover](/assets/img/foundryside.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
-<br>
-
-# :star: :star: :star: :star:
+# **Rating:** :star: :star: :star: :star:
 
 <br>
 
