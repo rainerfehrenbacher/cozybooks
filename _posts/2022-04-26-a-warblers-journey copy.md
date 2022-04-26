@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Foundryside by Robert Jackson Bennett
-subtitle: Entertaining, exhausting, and potentially triggering for some
+title: Foundryside
+subtitle: Robert Jackson Bennett
 thumbnail-img: /assets/img/foundryside.jpg
 tags: [fantasy]
 ---
 ![Foundryside book cover](/assets/img/foundryside.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
-# **Rating:** :star: :star: :star: :star:
-
+## **Rating:** :star: :star: :star: :star:
+## Entertaining, exhausting, and potentially triggering for some
 <br>
 
 **Trigger warning for this book at the end of the review**
