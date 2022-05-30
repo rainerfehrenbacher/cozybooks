@@ -3,7 +3,7 @@ layout: post
 title: Someone In Time
 subtitle: Tales of Time Crossed Romance
 thumbnail-img: /assets/img/someone.jpg
-tags: [fantasy][romance][science fiction][time travel][short stories]
+tags: [fantasy, romance, science fiction, time travel, short stories]
 ---
 ![Someone In Time book cover](/assets/img/someone.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 ## **Rating:** :star: :star: :star: :star:
